@@ -1,4 +1,4 @@
-# Hi there, I'm Kingsley Ubah - aka [King Chuks][https://twitter.com/kingchuuks] 👋 
+# Hi there, I'm Kingsley Ubah - aka [King Chuks](https://twitter.com/kingchuuks) 👋 
 
 
 [![Website](https://img.shields.io/website?label=ubahthebuilder.tech&style=for-the-badge&url=https%3A%2F%2Fubahthebuilder.tech)](https://ubahthebuilder.tech)
@@ -7,20 +7,20 @@
 
 ## I'm a Web Developer and Content Creator!!
 
-- 🔭 Check out my JS50 course: [Learn 50 JavaScript concepts!][https://gum.co/js-50]!
-- 🖊️ Grab your freelance writing checklist for FREE: [Freelance writer beginner's guide!][https://gum.co/fwc]!
+- 🔭 Check out my JS50 course: [Learn 50 JavaScript concepts!](https://gum.co/js-50)
+- 🖊️ Grab your freelance writing checklist for FREE: [Freelance writer beginner's guide!](https://gum.co/fwc)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to cycle and eat!
-- 🔭 I also do movie reviews on YouTube here: [Movie Recap Channel!][https://www.youtube.com/channel/UCXQSLxIEsoro4UhHxOZFLSA]!
-- 📨 Want to reach me? [Send me an email!][mailto:ubahthebuilder@gmail.com]!
+- 🔭 I also do movie reviews on YouTube here: [Movie Recap Channel!](https://www.youtube.com/channel/UCXQSLxIEsoro4UhHxOZFLSA)!
+- 📨 Want to reach me? [Send me an email!](mailto:ubahthebuilder@gmail.com)!
 
 ## Blogs I Write For:
-- [FreeCodeCamp][https://www.freecodecamp.org/news/author/ubahthebuilder/]!
-- [LogRocket][https://blog.logrocket.com/author/kingsleyubah/]!
-- [Tuts+][https://tutsplus.com/authors/kingsley-ubah]!
-- [ContentLab][https://contentlab.io]!
+- [FreeCodeCamp](https://www.freecodecamp.org/news/author/ubahthebuilder/)!
+- [LogRocket](https://blog.logrocket.com/author/kingsleyubah/)!
+- [Tuts+](https://tutsplus.com/authors/kingsley-ubah)!
+- [ContentLab](https://contentlab.io)!
 
 ### Connect with me:
 
@@ -39,12 +39,12 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 [<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
