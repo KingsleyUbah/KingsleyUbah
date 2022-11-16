@@ -65,5 +65,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started With Freelance Writing](https://dev.to/ubahthebuilder/getting-started-with-freelance-writing-2a7k)
+- [How to Build a Modern Image Slider with Swiper](https://dev.to/ubahthebuilder/how-to-build-a-modern-image-slider-with-swiper-2bje)
+- [How to Prevent Overflow Scroll in CSS](https://dev.to/ubahthebuilder/how-to-prevent-overflow-scroll-in-css-4fjk)
+- [How to Easily Add a Map to Your Website in Under 10 Minutes](https://dev.to/ubahthebuilder/how-to-easily-add-a-map-to-your-website-in-under-10-minutes-4gkm)
+- [Build a Chatbot with PHP, MySQL and AJAX in 10 minutes](https://dev.to/ubahthebuilder/build-a-chatbot-with-php-mysql-and-ajax-in-10-minutes-583j)
 <!-- BLOG-POST-LIST:END -->
 
