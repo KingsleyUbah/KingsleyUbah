@@ -65,10 +65,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Create Beautiful Snap Scrolling with CSS Scroll Snap](https://dev.to/ubahthebuilder/create-beautiful-snap-scrolling-with-css-scroll-snap-3oj9)
 - [Introducing JavaScript&#39;s new &quot;using&quot; Keyword &lpar;for Variables&rpar;](https://dev.to/ubahthebuilder/introducing-javascripts-new-using-keyword-for-variables-1o2i)
 - [Magic Link Auth Tutorial: What is Email Only Authentication?](https://dev.to/ubahthebuilder/magic-link-auth-tutorial-what-is-email-only-authentication-4g9b)
 - [Optimize Image Rendering With Lazy Loaded Images &lpar;and Blurred Images&rpar;](https://dev.to/ubahthebuilder/optimize-image-rendering-with-lazy-loaded-images-and-blurred-images-1col)
 - [How To Use The Next.js Link Component &lpar;with Examples&rpar;](https://dev.to/ubahthebuilder/how-to-use-the-nextjs-link-component-with-examples-35nn)
-- [Getting Started With Freelance Writing](https://dev.to/ubahthebuilder/getting-started-with-freelance-writing-2a7k)
 <!-- BLOG-POST-LIST:END -->
 
