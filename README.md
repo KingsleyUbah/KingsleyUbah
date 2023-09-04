@@ -65,10 +65,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Conditional Rendering in React Without Knowing This &lpar;&amp;&amp; and Ternary Operator&rpar;](https://dev.to/ubahthebuilder/stop-conditional-rendering-in-react-without-knowing-this-and-ternary-operator-388)
 - [How To Build Custom, Reusable Web Components From Scratch](https://dev.to/ubahthebuilder/how-to-build-custom-reusable-web-components-from-scratch-fbn)
 - [How To Use the New CSS Anchor Feature for Popovers](https://dev.to/ubahthebuilder/how-to-use-the-new-css-anchor-feature-for-popovers-aj)
 - [Create Beautiful Snap Scrolling with CSS Scroll Snap](https://dev.to/ubahthebuilder/create-beautiful-snap-scrolling-with-css-scroll-snap-3oj9)
 - [Introducing JavaScript&#39;s new &quot;using&quot; Keyword &lpar;for Variables&rpar;](https://dev.to/ubahthebuilder/introducing-javascripts-new-using-keyword-for-variables-1o2i)
-- [Magic Link Auth Tutorial: What is Email Only Authentication?](https://dev.to/ubahthebuilder/magic-link-auth-tutorial-what-is-email-only-authentication-4g9b)
 <!-- BLOG-POST-LIST:END -->
 
