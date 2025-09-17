@@ -58,10 +58,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Scrape Amazon Product Reviews Behind a Login](https://forem.com/ubahthebuilder/how-to-scrape-amazon-product-reviews-behind-a-login-444d)
-- [react-tweet: Vercel’s New React Library for Embedding Tweets](https://forem.com/ubahthebuilder/react-tweet-vercels-new-react-library-for-embedding-tweets-4dof)
-- [This Context API Mistake Ruins Your Whole React App &lpar;All Components Re-Render&rpar;](https://forem.com/ubahthebuilder/this-context-api-mistake-ruins-your-whole-react-app-all-components-re-render-2k63)
-- [Stop Conditional Rendering in React Without Knowing This &lpar;&amp;&amp; and Ternary Operator&rpar;](https://forem.com/ubahthebuilder/stop-conditional-rendering-in-react-without-knowing-this-and-ternary-operator-388)
-- [How To Build Custom, Reusable Web Components From Scratch](https://forem.com/ubahthebuilder/how-to-build-custom-reusable-web-components-from-scratch-fbn)
+- [How to Scrape Amazon Product Reviews Behind a Login](https://dev.to/ubahthebuilder/how-to-scrape-amazon-product-reviews-behind-a-login-444d)
+- [react-tweet: Vercel’s New React Library for Embedding Tweets](https://dev.to/ubahthebuilder/react-tweet-vercels-new-react-library-for-embedding-tweets-4dof)
+- [This Context API Mistake Ruins Your Whole React App &lpar;All Components Re-Render&rpar;](https://dev.to/ubahthebuilder/this-context-api-mistake-ruins-your-whole-react-app-all-components-re-render-2k63)
+- [Stop Conditional Rendering in React Without Knowing This &lpar;&amp;&amp; and Ternary Operator&rpar;](https://dev.to/ubahthebuilder/stop-conditional-rendering-in-react-without-knowing-this-and-ternary-operator-388)
+- [How To Build Custom, Reusable Web Components From Scratch](https://dev.to/ubahthebuilder/how-to-build-custom-reusable-web-components-from-scratch-fbn)
 <!-- BLOG-POST-LIST:END -->
 
